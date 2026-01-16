@@ -19,11 +19,12 @@ I'm committed to developing a strong foundation in network security, risk manage
 * Continuous learner with a strong ethical mindset.
   
 ## 3. Certifications and Training
-**Academic Training**: 
-Currently enrolled in University of Malaysia, studying in Cyber security courses,focusing on the core principles of information security and risk management.
-**Online Security Labs**: Actively practicing on platforms like **TryHackMe** and **Hack The Box** to develop hands-on penetration testing skills (e.g., Linux fundamentals, network exploitation). 
-**Self-Paced Learning**: 
-I attended courses at a domestic training institution, where I mainly learned technologies such as Linux, SQL, and Python, as well as related cybersecurity regulations. 
-I have not yet had any formal involvement in practical projects.
-Currently not taking any professional certification exams（e.g, CompTIA Security+、CEH、CISSP）.
+* **Academic Training**:
+* Currently enrolled in University of Malaysia, studying in Cyber security courses,focusing on the core principles of information security and risk management.
+*  **Online Security Labs**:
+*   Actively practicing on platforms like TryHackMe and Hack The Box to develop hands-on penetration testing skills (e.g., Linux fundamentals, network exploitation).
+* **Self-Paced Learning**:
+* I attended courses at a domestic training institution, where I mainly learned technologies such as Linux, SQL, and Python, as well as related cybersecurity regulations.
+* I have not yet had any formal involvement in practical projects.
+* Currently not taking any professional certification exams（e.g, CompTIA Security+、CEH、CISSP）.
 
