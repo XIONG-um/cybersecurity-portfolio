@@ -45,3 +45,17 @@ I'm committed to developing a strong foundation in network security, risk manage
   * Successfully completed reconnaissance of the target and constructed the relevant dataset.
   * Using the trained dataset, a confusion matrix was created through the random forest model.
   * An embedded dashboard was created using HTML technology, enabling real-time monitoring.
+## 5. Learning Journey
+* * **Summary**:
+  * Through studying the current courses, I have initially entered the field of cybersecurity.
+  * I have mastered basic network reconnaissance techniques and learned how to use Wireshark to interpret data packets.
+* * **Challenge**:
+  * I find complex command-line scripting and understanding deep cryptographic protocols challenging.
+  * To overcome this, I am dedicating extra time to Python for Cybersecurity and practicing daily on platforms like TryHackMe to build muscle memory for Linux commands.
+ ## 6. Career Objective
+ My goal is to become a Professional Penetration Tester. 
+ I am driven by the desire to help organizations proactively secure their infrastructure by identifying vulnerabilities before malicious actors can exploit them
+* * **Short-Term Goal**:To master the OWASP Top 10 web vulnerabilities and gain proficiency in automated and manual scanning tools.
+* * **Long-Term Goal**:I aim to obtain industry-recognized certifications such as OSCP (Offensive Security Certified Professional) and contribute to the cybersecurity community through responsible vulnerability disclosure and security research.
+## 7. Contact Information:
+Emali Address:13658130369@163.com or GitHub username:XIONG-um
