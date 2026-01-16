@@ -9,11 +9,9 @@ I'm committed to developing a strong foundation in network security, risk manage
 * **Protocols**: Basic understanding of TCP/IP, DNS, HTTP/HTTPS, and SSH.
 * **Models**: Familiarity with the OSI 7-Layer model and its security implications at each layer.
 * **Concepts**: Knowledge of CIA Triad (Confidentiality, Integrity, Availability) and basic encryption principles.
-
 ### **Tools & Environments**
 * **Operating Systems**: Basic navigation and command-line usage in Linux (Ubuntu/Kali) and Windows.
 * **Security Tools**: Initial experience with Nmap for network discovery and Wireshark for packet sniffing.
-
 ### **Soft Skills**
 * Analytical thinking and problem-solving.
 * Continuous learner with a strong ethical mindset.
@@ -33,3 +31,17 @@ I'm committed to developing a strong foundation in network security, risk manage
 * **Tools**: Nmap. 
 * **Methodology**: Performed a TCP connect scan to discover services running on target hosts.
 * **Outcome**: Successfully identified potentially vulnerable open ports and proposed basic firewall rules to close them. 
+### Project 2: Autonomous threat hunter
+* **Objective**:it includes network scanning, traffic generation, machine learning, and real-time monitoring
+* * **Tools**: Shodan、Jupyter、Python.
+* * **Methodology**:
+  * Develop a self-learning security agent for remote IoT networks.
+  * The main activities include:
+    * Mapping the environment.
+    * Generating your own training data using Python scripts。
+    * Using machine learning to classify traffic based on statistical behaviors (packet size, timing).
+    * Implement visualized threats
+* **Outcome**:
+  * Successfully completed reconnaissance of the target and constructed the relevant dataset.
+  * Using the trained dataset, a confusion matrix was created through the random forest model.
+  * An embedded dashboard was created using HTML technology, enabling real-time monitoring.
