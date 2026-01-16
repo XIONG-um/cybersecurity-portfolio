@@ -27,4 +27,9 @@ I'm committed to developing a strong foundation in network security, risk manage
 * I attended courses at a domestic training institution, where I mainly learned technologies such as Linux, SQL, and Python, as well as related cybersecurity regulations.
 * I have not yet had any formal involvement in practical projects.
 * Currently not taking any professional certification exams（e.g, CompTIA Security+、CEH、CISSP）.
-
+## 4. Project Experience
+### Project 1: Basic Network Vulnerability Scanning
+* **Objective**: To identify active devices and open ports within a local network environment.
+* **Tools**: Nmap. 
+* **Methodology**: Performed a TCP connect scan to discover services running on target hosts.
+* **Outcome**: Successfully identified potentially vulnerable open ports and proposed basic firewall rules to close them. 
